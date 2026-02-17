@@ -7,3 +7,6 @@
 
 Локальный запуск тестов:
     python -m pytest -q
+
+    CI test run
+
